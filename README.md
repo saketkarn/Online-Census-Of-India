@@ -1,6 +1,6 @@
 #Census of India
 
-Introduction to Project :-
+Introduction to Project :-<br>
 •	A project was assigned to the students of Chandigarh University as a Summer Training Program.<br>
 •	We were assigned the topic of Census of India to do as our project.<br>
 •	It was really a very interesting topic as while making the project we had gone through many ups and downs while completing the project.<br>
