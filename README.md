@@ -16,6 +16,7 @@ and just righthand side of that is given the links for various social networking
 •	Contact Us section provides the contact details of the official bodies of the Census of India.<br>
 •	Meet the developers section contains all the details of us, i.e. the one who made the project.<br>
 •	Submit your form is the section in which one who wish to submit his/her details along with the family member details can do so and all the details will be saved in the database.<br>
+•The whole project works really efficiently, and below are the Software Requirements and specifications of this project.<br>
 
 Software Requirements / Specifications:-
 1.	XAMPP Server<br>
