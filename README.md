@@ -1,7 +1,7 @@
 #Census of India
 
 Introduction to Project :-<br>
-•	A project was assigned to the students of Chandigarh University as a Summer Training Program.<br>
+•	This project was made as a part of summer institutional training in Chandigarh University.<br>
 •	We were assigned the topic of Census of India to do as our project.<br>
 •	It was really a very interesting topic as while making the project we had gone through many ups and downs while completing the project.<br>
 •	The project starts form the webpage in which you’ll see the logo of of Indian Government just at the right hand side it’s written as <br>
@@ -16,7 +16,7 @@ and just righthand side of that is given the links for various social networking
 •	Contact Us section provides the contact details of the official bodies of the Census of India.<br>
 •	Meet the developers section contains all the details of us, i.e. the one who made the project.<br>
 •	Submit your form is the section in which one who wish to submit his/her details along with the family member details can do so and all the details will be saved in the database.<br>
-•The whole project works really efficiently, and below are the Software Requirements and specifications of this project.<br>
+•The whole project works with great efficiency, and below are the Software Requirements and specifications of this project.<br>
 
 Software Requirements / Specifications:-
 1.	XAMPP Server<br>
